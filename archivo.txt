@@ -1,0 +1,9 @@
+Here are some example URLs for testing:
+https://www.google.com
+https://www.github.com
+This is a test file.
+Another URL: https://www.microsoft.com
+This program will now be able to find and process these URLs.
+You can find more information at http://example.com/info.
+Another test URL is https://test.com.
+This is the last URL: https://anothertest.org/path?query=param
